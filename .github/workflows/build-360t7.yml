@@ -12,13 +12,13 @@
 
 name: Build 360T7
 
-于:
+on:
   repository_dispatch:
   workflow_dispatch:
 
 env:
   REPO_URL: https://github.com/padavanonly/immortalwrt-mt798x-24.10.git
-  REPO_BRANCH: openwrt-24.10
+  REPO_BRANCH: 24.10
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 360t7.config
   DIY_P1_SH: diy-part1.sh
