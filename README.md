@@ -2,6 +2,7 @@
 （p3terx 2024新版 基于ubuntu22.04）
 
 237大佬源码编译路由器固件。
+包含OpenClash插件
 immortalwrt24.10
 
 
