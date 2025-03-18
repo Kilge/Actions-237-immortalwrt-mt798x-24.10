@@ -1,10 +1,8 @@
 云编译7981固件
 （p3terx 2024新版 基于ubuntu22.04）
 
-237大佬源码编译路由器固件。
+237大佬immortalwrt24.10源码编译路由器固件。
 包含OpenClash插件
-immortalwrt24.10
-
 
 使用p3terx云编译模板
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
